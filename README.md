@@ -1,1 +1,1 @@
-# slider-uzb-tutorial-starter
+# Demo: https://sliderapp-my.netlify.app
